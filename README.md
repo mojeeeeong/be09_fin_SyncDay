@@ -481,7 +481,7 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
     <summary>프로젝트페이지</summary>
 
-  ![테스트](readme/화면 캡처 2024-12-15 164530.png)
+  ![테스트](./readme/화면 캡처 2024-12-15 164530.png)
 
   </details>
 
@@ -492,7 +492,7 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
     <summary>마일스톤 선택</summary>
 
-  ![테스트](readme/milestone.png)
+  ![테스트](./readme/milestone.png)
 
   </details>
 
@@ -507,7 +507,7 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
     <summary>마일스톤 연동</summary>
 
-  ![테스트](readme/issue.png)
+  ![테스트](./readme/issue.png)
 
   </details>
 
