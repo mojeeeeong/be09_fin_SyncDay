@@ -1,0 +1,12 @@
+[submodule "SyncDay_Back"]
+	path = SyncDay_Back
+	url = https://github.com/three-ping/SyncDay_Back.git
+[submodule "SyncDay_Front"]
+	path = SyncDay_Front
+	url = https://github.com/three-ping/SyncDay_Front.git
+[submodule "SyncDay_DB"]
+	path = SyncDay_DB
+	url = https://github.com/three-ping/SyncDay_DB.git
+[submodule "SyncDay_Docker"]
+	path = SyncDay_Docker
+	url = https://github.com/three-ping/SyncDay_Docker.git
