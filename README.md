@@ -475,7 +475,7 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 ### 8.4 프로젝트
 
 <details>
-  <summary>리뷰</summary>
+  <summary>프로젝트</summary>
 
 - <details>
 
