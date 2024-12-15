@@ -479,9 +479,9 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
 - <details>
 
-    <summary>리뷰 전체 조회</summary>
+    <summary>프로젝트페이지</summary>
 
-  ![테스트](./docs/gif/review/review_total.gif)
+  ![테스트](https://github.com/beyond-sw-camp/be09_fin_SyncDay/blob/298b1e98ecd89f8964e86f316a7540cb212702d9/readme/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-12-15%20164530.png)
 
   </details>
 
