@@ -481,55 +481,18 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
     <summary>프로젝트페이지</summary>
 
-  ![테스트](https://github.com/beyond-sw-camp/be09_fin_SyncDay/blob/298b1e98ecd89f8964e86f316a7540cb212702d9/readme/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-12-15%20164530.png)
+  ![테스트](readme/화면 캡처 2024-12-15 164530.png)
 
   </details>
 
-- <details>
 
-    <summary>리뷰 상세 조회</summary>
 
-  ![테스트](./docs/gif/review/review_detail.gif)
-
-  </details>
 
 - <details>
 
-    <summary>리뷰 작성</summary>
+    <summary>마일스톤 선택</summary>
 
-  ![테스트](./docs/gif/review/review_regist.gif)
-
-  </details>
-
-- <details>
-
-    <summary>리뷰 수정</summary>
-
-  ![테스트](./docs/gif/review/review_update.gif)
-
-  </details>
-
-- <details>
-
-    <summary>리뷰 삭제</summary>
-
-  ![테스트](./docs/gif/review/review_delete.gif)
-
-  </details>
-
-- <details>
-
-    <summary>리뷰 좋아요</summary>
-
-  ![테스트](./docs/gif/review/review_like.gif)
-
-  </details>
-
-- <details>
-
-    <summary>리뷰 백엔드</summary>
-
-  ![테스트](./docs/gif/review/review_backend.gif)
+  ![테스트](readme/milestone.png)
 
   </details>
 
@@ -539,42 +502,15 @@ SyncDay는 "Sync(동기화)"와 "Day(일)"의 결합으로, 하루의 일정과 
 
 ### 8.5 카드
 
-<details>
-  <summary>비밀리뷰</summary>
 
 - <details>
 
-    <summary>비밀리뷰 조회</summary>
+    <summary>마일스톤 연동</summary>
 
-  ![테스트](./docs/gif/secret-review/secret_review_view.gif)
-
-  </details>
-
-- <details>
-
-    <summary>비밀리뷰 작성</summary>
-
-  ![테스트](./docs/gif/secret-review/secret_review_regist.gif)
+  ![테스트](readme/issue.png)
 
   </details>
 
-- <details>
-
-    <summary>비밀리뷰 수정</summary>
-
-  ![테스트](./docs/gif/secret-review/secret_review_update.gif)
-
-  </details>
-
-- <details>
-
-    <summary>비밀리뷰 백엔드</summary>
-
-  ![테스트](./docs/gif/secret-review/secret_review_backend.gif)
-
-  </details>
-
-</details>
 
 ---
 
